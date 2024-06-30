@@ -4,7 +4,7 @@ Map and set lip-sync keyframes from Papagayo to Advanced Skeleton Facial Rigging
 
 ## Introduction
 
-This script sets keyframes for phoneme controller attributes in Autodesk Maya based on phoneme data exported from Papagayo. The visemes of the controller attributes in Maya are rigged by Advanced Skeleton.
+This script sets keyframes for viseme controller in Autodesk Maya based on phoneme data exported from Papagayo. The viseme controller is part of facial rigging by Advanced Skeleton.
 
 ## Usage
 
