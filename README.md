@@ -8,7 +8,7 @@ This script sets keyframes for viseme controller in Autodesk Maya based on phone
 
 ## Usage
 
-1. Place the `Papagayo2Maya.py` script in your Maya scripts directory or copy/paste it to the script editor in Maya.
+1. Place the `Papagayo2Maya.py` script in your Maya scripts directory or copy/paste it to the Python tab in the bottom pane of the script editor in Maya.
 2. Update the `file_path` variable in the script to point to your `.dat` file containing the phoneme data.
 3. Update the `phoneme_to_attr` dictionary to map your phonemes to the corresponding controller attributes in your Maya scene.
 4. Run the script in Maya's script editor or as a Python script.
