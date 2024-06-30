@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Papagayo2Maya
 
 Map and set lip-sync keyframes from Papagayo to Advanced Skeleton Facial Rigging in Maya.
@@ -20,23 +17,16 @@ This script sets keyframes for phoneme controller attributes in Autodesk Maya ba
 
 The `.dat` file should contain lines with start times and phonemes. Example format:
 
-```
-MohoSwitch1
-1 rest
-19 E
-20 O
-21 MBP
-22 WQ
-...
-```
+- MohoSwitch1
+- 1 rest
+- 19 E
+- 20 O
+- 21 MBP
+- 22 WQ
 
 ## Installation
 
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/hsuehyt/Papagayo2Maya.git
-```
+Clone this repository to your local machine using the following command: `git clone https://github.com/hsuehyt/Papagayo2Maya.git`
 
 ## Links
 
@@ -46,4 +36,3 @@ git clone https://github.com/hsuehyt/Papagayo2Maya.git
 ## License
 
 This project is licensed under the MIT License.
-```
